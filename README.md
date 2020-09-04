@@ -1,2 +1,2 @@
-# Ence260 - Computer Systems (Embedded Systems)
-Git repo for ence260_2019_S2
+# Computer Systems (Embedded Systems)
+Embedded Systems programming on an arduino UCFUNKIT 4.
